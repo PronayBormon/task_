@@ -128,14 +128,7 @@
     box-shadow: 0 0 10px #00000021;
 }
 
-.card_bg_top {
-
-    background: #a7d4ce;
-
-    height: 60px;
-
-    box-shadow: 1px 2px 1px #00000029;
-}
+.card_bg_top {background: #a7d4ce;height: 60px;box-shadow: 1px 2px 1px #00000029;border-bottom-left-radius: 3px;border-bottom-right-radius: 3px;}
 
 .card_section img {
     height: 100px;
